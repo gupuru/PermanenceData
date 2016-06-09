@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         readBtn.setOnClickListener(this);
         editText = (EditText) findViewById(R.id.edit_text);
         statusTextView = (TextView)findViewById(R.id.status_text_view);
+
     }
 
     @Override

@@ -25,7 +25,7 @@ publish {
     artifactId = 'permanencedata'
     publishVersion = '0.0.1'
     desc = 'save data external storage'
-    website = 'https://github.com/gupuru/StreetPassBLE'
+    website = 'https://github.com/gupuru/PermanenceData.git'
     licences = ['MIT']
 }
 
